@@ -1,7 +1,7 @@
 # Saving Dodo
 
 ## Introduction
-My zero-copy undergraduate work, an original 3D audio game based on the Unity engine (implemented by C#) that has won many awards. The theme of the game is the protection of birds. It's worth mentioning that we collaborated with art students to create the story, characters, etc. It's a complete game, all in all, so feel free to download the EXE to experience it!
+The theme of the game is the protection of birds. It's worth mentioning that we collaborated with art students to create the story, characters, etc. It's a complete game, all in all, so feel free to download the EXE to experience it!
 
 ## Video demonstration
 https://www.bilibili.com/video/BV1pc411j7Nf
@@ -38,14 +38,6 @@ The key design and technical implementation of the project is as follows：
 <div align=center>
 <img src="https://github.com/fwyc0573/SavingDodo/blob/main/fig/图片3.gif" height="165" />            <img src="https://github.com/fwyc0573/SavingDodo/blob/main/fig/图片4.gif" height="165" /><br/>
 </div>
-
-
-- The parameters related to the difficulty of the game are dynamically adjusted by tracking the user's progress and performance in real time.
-<div align=center>
-    
-<img src="https://github.com/fwyc0573/SavingDodo/blob/main/fig/fig8.jpg" height="165" />            <img src="https://github.com/fwyc0573/SavingDodo/blob/main/fig/fig9.jpg" height="165" /><br/>
-</div>
-
 
 - To achieve better performance, object pool management techniques are introduced.
 - Infiniting loop generation of the game map by tracking the position of the game characters.
